@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paul-mart
 - 👀 I’m interested in cooking, coding, & anime.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C++, HTML5, and CSS3.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: paulmartinx03@gmail.com
 
