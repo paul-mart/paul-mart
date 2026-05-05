@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paul-mart
-- 👀 I’m interested in cooking, coding, & anime.
-- 🌱 I’m currently learning C#, Python, C++, & Javascript.
-- 💞 I have already studied and implemented projects with: C++, HTML5, C, & CSS3.
+- 👀 I’m interested in cooking, coding, language learning, & anime.
+- 🌱 I’m currently learning React and Firebase.
+- 💞 I have already studied and implemented projects with: C++, HTML5, C, Typescript, Python, and more.
 - 📫 How to reach me: paulmartinx03@gmail.com
 
 <!---
